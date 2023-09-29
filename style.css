@@ -19,9 +19,7 @@ ul.menu li a {
     color: white; 
 }
 
-ul.menu li a:hover {
-    background-color: #555; 
-}
+
 
 .logo{
   
@@ -48,7 +46,7 @@ ul.menu li a:hover {
 .direita{
    position: absolute;
 
-  right: 10%;
+  left: 10%;
    top:10%
 }
 
